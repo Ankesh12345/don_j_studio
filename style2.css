@@ -1,0 +1,130 @@
+body{
+    background-color:url("background.png");
+    
+}
+.product-background{
+    background-color: black;
+}
+
+.alpha{
+    background-color:
+rgba(255, 255, 255, .3);
+}
+
+
+.alpha2{
+    background-color: rgba(255, 255, 255, .3);
+    padding: 10px;
+    margin-top: 20px;
+}
+
+
+.title{
+    font-family:Chiller ;
+    font-size: 35px;
+    color: black;
+}
+
+
+a{
+  
+    padding: 10px;
+    font-family:Chiller ;
+    font-size: 30px;
+    color: black;
+
+}
+
+.alpha4{
+    background-color: rgba(255, 255, 255, .4);
+
+}
+
+p{
+    padding: 50px;
+    text-align: center;
+    margin: auto;
+    
+    display: block;
+    font-family:Chiller ;
+    font-size: 30px;
+    color: black;
+}
+h1{
+    padding:10px;
+
+
+    text-align: center;
+    margin: auto;
+    display: block;
+    font-family:Chiller ;
+    font-size: 80px;
+    color: black;
+}
+
+h2{
+    padding:10px;
+
+
+    text-align: center;
+    margin: auto;
+    display: block;
+    font-family:Chiller ;
+    font-size: 50px;
+    color: black;
+}
+h3{
+   
+    
+    text-align: center;
+    margin: auto;
+    display: block;
+    font-family:Chiller ;
+    font-size: 50px;
+    color:black;
+}
+
+h4{
+    text-align: center;
+    margin: auto;
+    display: block;
+    font-family:Chiller ;
+    font-size: 50px;
+    color:black;
+}
+
+.rightside-col{
+   
+    padding:35px;
+
+    margin: auto;
+}
+.change-look{
+    padding-top: 30px;
+    
+    display: block;
+    padding-left: 30%;
+    padding-bottom: 20px;
+}
+.change-look1{
+    padding-top: 30px;
+    display: block;
+    padding-left: 35%;
+    padding-bottom: 20px;
+}
+
+
+
+  .max1,.max2,.max3{
+      padding: 10px;
+  }
+
+  .style3{
+      font-family: chiller;
+      font-size: 30px;
+  }
+
+
+
+
+

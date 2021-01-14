@@ -1,0 +1,112 @@
+p{
+    padding: 50px;
+    text-align: center;
+    margin: auto;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    display: block;
+    font-family:Chiller ;
+    font-size: 30px;
+    color: black;
+}
+h1{
+    padding:10px;
+
+
+    text-align: center;
+    margin: auto;
+    display: block;
+    font-family:Chiller ;
+    font-size: 80px;
+    color: black;
+}
+
+h2{
+    padding:10px;
+
+
+    text-align: center;
+    margin: auto;
+    display: block;
+    font-family:Chiller ;
+    font-size: 50px;
+    color: black;
+}
+h3{
+    padding: 70px;
+    text-align: center;
+    margin: auto;
+    display: block;
+    font-family:Chiller ;
+    font-size: 50px;
+    color:black;
+}
+
+a{
+  
+    padding: 10px;
+    font-family:Chiller ;
+    font-size: 30px;
+    color: black;
+
+}
+.title{
+    
+    font-family:Chiller ;
+    font-size: 35px;
+    color: black;
+}
+
+.logo1{
+   
+    border-radius: 10px;
+    height:280px;
+    width: 400px;
+    margin: auto;
+    display: block;
+    
+    
+
+}
+img{
+    border-radius: 10px;
+    height:300px;
+    width: 400px;
+    margin: auto;
+    display: block;
+
+    
+}
+.size{
+    display: block;
+    padding-top: 10%;
+}
+.alpha{
+    background-color:
+rgba(255, 255, 255, .3)}
+.alpha3{
+    background-color:
+rgba(255, 255, 255, 0)}
+
+
+.para{
+text-align: center;
+font-size: 50px;
+font-weight: bolder;
+font-family:Chiller ;
+
+
+}
+
+.comingsoon{
+    display: block;
+    padding-top:30px;
+   
+}
+
+body{
+    background-image: url("background.png");
+    
+}
+
+
+
